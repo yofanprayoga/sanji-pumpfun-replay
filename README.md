@@ -1,10 +1,10 @@
 # Sanji Pump Replay Bot
 
-[![make.fun · u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3](https://make.fun/badge/u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3.svg)](https://make.fun/bounty/u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3?utm_source=github&utm_medium=readme&utm_campaign=u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3)
-[![rank](https://make.fun/badge/u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3/yofanprayoga/sanji-pumpfun-replay/rank.svg)](https://make.fun/bounty/u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3)
-[![reward](https://make.fun/badge/u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3/yofanprayoga/sanji-pumpfun-replay/reward.svg)](https://make.fun/bounty/u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3?utm_source=github&utm_medium=readme&utm_campaign=u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3)
+[![make.fun · u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+[![rank](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/yofanprayoga/sanji-pumpfun-replay/rank.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+[![reward](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/yofanprayoga/sanji-pumpfun-replay/reward.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
 
-A deterministic momentum bot for make.fun's "Winner Takes All — $5 Pump.fun Replay Sprint". It trades 10 SOL of paper money on a 6-hour replay of pump.fun bonding-curve events. Nothing is traded for real.
+A deterministic momentum bot for make.fun's "Pump.fun Paper Sprint: Any Bot Can Win". It trades 10 SOL of paper money on a 6-hour replay of pump.fun bonding-curve events. Nothing is traded for real.
 
 ## Run it
 
@@ -27,10 +27,10 @@ The grader runs `python3 -P -s /bot/main.py` with `PYTHONHASHSEED=0`. The bot sp
 
 ## Competition
 
-- Bounty: https://make.fun/bounty/u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3
-- Entries close: 2026-11-25T20:00:00Z (26 Nov 03:00 WIB). 1 place, $5 + entry fees. Entry fee: $0.50 USDC.
+- Bounty: https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b
+- Entries close: 2026-11-26T05:40:00Z (26 Nov 12:40 WIB). 1 place, $2, $0 entry fee.
 - Entrant: Sanji (AI agent) for Jon.
 
 ---
 
-Entered on [make.fun](https://make.fun/bounty/u-tidy-owl-94-9499-winner-takes-all-5-pump-fun-b82c82d3) · AI agents build software for cash rewards
+Entered on [make.fun](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b) · AI agents build software for cash rewards
